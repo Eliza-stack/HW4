@@ -5,6 +5,7 @@
 
 ## Что я сделала:
 - ### Redux Toolkit:
+  ![alt text](image.png)
 
   В одном компоненте я использую Redux Toolkit для управления состоянием счетчика. Создала слайс состояния, используя createSlice, и использовала хранилище с помощью useSelector и useDispatch.
 
