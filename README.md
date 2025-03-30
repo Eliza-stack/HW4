@@ -5,11 +5,15 @@
 
 ## Что я сделала:
 - ### Redux Toolkit:
-  ![alt text](image.png)
+<img src = "https://github.com/user-attachments/assets/243cbcfd-0d90-4e52-84c7-933bcf32bada" width = 200px>
+
+
 
   В одном компоненте я использую Redux Toolkit для управления состоянием счетчика. Создала слайс состояния, используя createSlice, и использовала хранилище с помощью useSelector и useDispatch.
 
 - ### Zustand:
+  <img src = "https://github.com/user-attachments/assets/5aeef366-553f-41ff-b0f2-d296b87f7f0a"  width = 200px>
+
 
 В другом компоненте я использую Zustand, который представляет собой простую и минималистичную библиотеку. Я создала хранилище с помощью функции create и использовала хук для получения и изменения состояния.
 
